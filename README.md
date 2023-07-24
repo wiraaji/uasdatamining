@@ -1,3 +1,3 @@
 # UAS DATA MINING
-Nama    : Wira Aji Nugraha
-NIM     : 32602000064
+- Nama    : Wira Aji Nugraha
+- NIM     : 32602000064
